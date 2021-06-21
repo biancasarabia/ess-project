@@ -6,3 +6,4 @@ Feature: busca de dúvidas antigas no sistema
 
 Adicionando uma linha em cima.
 Adição de uma linha para modificar o arquivo.
+Adicionando linha que provavelmente vai dar conflito.
