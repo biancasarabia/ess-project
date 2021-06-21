@@ -6,3 +6,5 @@ Feature: busca de dúvidas antigas no sistema
 
 
 Adição de uma linha para modificar o arquivo.
+Adição de mais uma linha.
+Adicionando mais uma linha.
